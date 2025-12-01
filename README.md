@@ -45,9 +45,7 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: Python (Flask)
 
-LLM: Gemini / OpenAI APIs
-
-Environment: .env for secure key storage
+LLM: Gemini API
 
 Error Handling: Robust fallback responses if LLM fails
 
